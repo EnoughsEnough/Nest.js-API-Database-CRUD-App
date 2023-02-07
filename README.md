@@ -2,7 +2,9 @@
 
 ##BackEnd: 
 - RestApi на фреймфорке Nest.js
-- MongoDB система управления БД
+- POSTgres
+- Docker
+- Swagger
 
 ##FrontEnd:
 - TypeScript + React
