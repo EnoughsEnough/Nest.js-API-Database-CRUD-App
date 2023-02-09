@@ -2,8 +2,10 @@ import { BelongsTo, Column, DataType, ForeignKey, Model, Table } from "sequelize
 import { User } from "../users/users.model";
 
 interface PostCreationAttrs {
-  value: string;
-  description: string;
+  title: string;
+  content: string;
+  userId: number;
+  image: string;
 }
 
 @Table({ tableName: "posts" })
