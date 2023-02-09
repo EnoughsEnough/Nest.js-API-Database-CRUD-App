@@ -4,7 +4,7 @@
 - RestApi на фреймфорке Nest.js
 - POSTgres
 - Docker
-- Swagger
+- Swagger (/api/docs)
 
 ##FrontEnd:
 - TypeScript + React
